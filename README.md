@@ -10,6 +10,7 @@
 - :school: Estudiante de Ingeniería Informática en <a href="https://ucema.edu.ar">Universidad del CEMA (UCEMA)</a>
 - 👨‍🎓: Embajador estudiantil de <a href="https://ibm.com">IBM</a>.
 - :technologist: Desarrollándome profesionalmente en el mundo Cloud, la infraesturctura, la inteligencia artificial y la ingeniería de software
+- 👨‍💻 Software Engineer en JPMorgan Chase & Co. 
 - :computer: STEM Researcher
 - :student: Apasionado de la investigación académica en la computación cuántica, la algoritmia y las ciencias matemáticas
 - 💙: Propiéndome metas y desafíos nuevos constantemente
